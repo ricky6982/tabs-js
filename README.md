@@ -30,4 +30,5 @@ La motivación principal es tener formularios enfocados a caracteristicas princi
 
   - Guardar formulario actual y cambiar al siguiente Tab.
   - Verifica si el formulario actual ha cambiado y preguntar al usuario si desea guardarlo.
+  - Navegabilidad por tabs (siguiente, anterior, tab especifico, url)
   
