@@ -32,3 +32,12 @@ La motivación principal es tener formularios enfocados a caracteristicas princi
   - Verifica si el formulario actual ha cambiado y preguntar al usuario si desea guardarlo.
   - Navegabilidad por tabs (siguiente, anterior, tab especifico, url)
   
+### Methods (Draft)
+
+```
+var cardTabs = new CardTabs('#menu');
+
+cardTabs.CurrentTab(): Returns de id tab
+cardTabs.NextTab(): Hide Current tab and show the next tab
+cardTabs.BackTab(): Hide Current tab and show the previous tab
+```
