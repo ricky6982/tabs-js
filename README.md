@@ -34,7 +34,7 @@ La motivación principal es tener formularios enfocados a caracteristicas princi
   
 ### Methods (Draft)
 
-```
+```js
 var cardTabs = new CardTabs('#menu');
 
 cardTabs.CurrentTab(): Returns de id tab
